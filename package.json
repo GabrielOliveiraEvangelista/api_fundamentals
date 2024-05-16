@@ -1,0 +1,13 @@
+{
+  "name": "apiuserfundamentos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch api_user/src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
